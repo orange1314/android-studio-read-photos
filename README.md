@@ -56,7 +56,7 @@
 - **圖片縮放類型：** `centerInside`
 
 這個 UI 介面主要包含一個按鈕，用於打開圖片選擇器，以及一個 `ImageView`，用於顯示選擇的圖片。
-```
+
 
 ## MainActivity.java
 ```
