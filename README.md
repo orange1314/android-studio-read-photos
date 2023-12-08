@@ -301,7 +301,6 @@ private void handleGalleryResult(Intent data) {
 - `<application>` 標籤：定義應用程式的主要配置，包括圖標、主題、支援的方向等。
 - `<activity>` 標籤：定義應用程式的活動，這裡指定了 `MainActivity` 為主活動，並設定了相關的 `intent-filter`。
 
-請注意，以上僅提供對清單檔中各個元素的基本功能說明。如果有特定的函數或功能需要進一步解釋，請提供相關的程式碼部分。
 
 ![完成](png/完成.gif)
 
